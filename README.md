@@ -34,10 +34,21 @@ I'm interested in software. I always continue to improve myself!
 </p>
 
 <p align="center">
+<a href="https://discord.com/api/oauth2/authorize?client_id=1264883239458439209&permissions=8&scope=bot" target="_blank">Hylus</a> don't forget to check out my discord bot!
+</p>
+<p align="center">
 <a href="https://discord.com/api/oauth2/authorize?client_id=977247733234671676&permissions=8&scope=bot" target="_blank">Miyus Uptime</a> don't forget to check out my discord bot!
 </p>
 
 <h3 align="center">:scroll: My Projects</h3>
+
+<p align="center">
+My Discord Bot » <a href="https://discord.com/api/oauth2/authorize?client_id=1264883239458439209&permissions=8&scope=bot" target="_blank">Hylus</a>
+</p>
+
+<p align="center">
+My Discord Bot Website » <a href="https://hylus.glitch.me/" target="_blank">Hylus Website</a>
+</p>
 
 <p align="center">
 My Discord Bot » <a href="https://discord.com/api/oauth2/authorize?client_id=977247733234671676&permissions=8&scope=bot" target="_blank">Miyus Uptime</a>
