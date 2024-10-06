@@ -1,4 +1,4 @@
-<h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hello, im sytx 👋</h2>
+<h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hello, I'm sytx 👋</h2>
 
 <div align="center">
     <a href="https://discord.com/users/665262429051158528">
@@ -7,8 +7,8 @@
 
 <h3 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">👤 My Accounts</h3>
 <p align="center">
-  <a href="https://discord.gg/7XezmJMfta" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white"></a>
-  <a href="https://github.com/TheSytx" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://discord.gg/7XezmJMfta" target"_blank"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white"></a>
+  <a href="https://github.com/TheSytx" target"_blank"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 <br>
 </p>
 
