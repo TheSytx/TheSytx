@@ -26,7 +26,7 @@
 <h3 align="center">:rocket: About Me</h3>
 
 <p align="center">
-Hello, im <a href="https://discord.com/users/665262429051158528" target="_blank">sytx</a>!
+Hello, im <a href="https://sytx.vercel.app/" target="_blank">sytx</a>!
 </p>
 
 <p align="center">
@@ -34,15 +34,15 @@ I'm interested in software. I always continue to improve myself!
 </p>
 
 <p align="center">
-<a href="https://discord.com/api/oauth2/authorize?client_id=1264883239458439209&permissions=8&scope=bot" target="_blank">Hylus</a> don't forget to check out my discord bot!
+<a href="https://hylus.vercel.app/invite" target="_blank">Hylus</a> don't forget to check out my discord bot!
 </p>
 
 <h3 align="center">:scroll: My Projects</h3>
 
 <p align="center">
-My Discord Bot » <a href="https://discord.com/api/oauth2/authorize?client_id=1264883239458439209&permissions=8&scope=bot" target="_blank">Hylus</a>
+My Discord Bot » <a href="https://hylus.vercel.app/invite" target="_blank">Hylus</a>
 </p>
 
 <p align="center">
-My Discord Bot Website » <a href="https://hylus.glitch.me/" target="_blank">Hylus Website</a>
+My Discord Bot Website » <a href="https://hylus.vercel.app/" target="_blank">Hylus Website</a>
 </p>
