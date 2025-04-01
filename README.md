@@ -1,35 +1,36 @@
-<h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hello, I'm sytx 👋</h2>
+<h1 align="center">Hello, I'm sytx 👋</h1>
 
 <div align="center">
     <a href="https://discord.com/users/665262429051158528">
-  <img src="https://lanyard-profile-readme.vercel.app/api/665262429051158528"></a>
+    <img src="https://lanyard-profile-readme.vercel.app/api/665262429051158528" alt="Discord Status"></a>
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=TheSytx&style=flat&color=blue" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=TheSytx&style=flat&color=blue" alt="Profile Views">
 </div>
 
-<h3 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">👤 My Accounts</h3>
+<h3 align="center">👤 My Accounts</h3>
 <p align="center">
   <a href="https://discord.com/users/665262429051158528" target"_blank"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white"></a>
   <a href="https://github.com/TheSytx" target"_blank"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-<br>
 </p>
 
-<h3 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">🔎 My Interests</h3>
+<h3 align="center">🔎 My Interests</h3>
 <p align="center">
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" height="40" alt="visual-studio-code logo" />
 </p>
 
-<h3 align="center">:rocket: About Me</h3>
+<h3 align="center">🚀 About Me</h3>
+<p align="center">I'm interested in software and always improving myself!</p>
 
-<p align="center">
-<p align="center">
-I'm interested in software. I always continue to improve myself!
-</p>
+<h3 align="center">💎 My Projects</h3>
+<div align="center">
+  <a href="https://voicestats.xyz" target="_blank">
+    <img src="https://voicestats.xyz/assets/images/other/web-banner.png" height="80" alt="VoiceStats Banner">
+  </a>
+</div>
