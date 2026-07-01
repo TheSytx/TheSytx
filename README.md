@@ -17,7 +17,7 @@
 
 <h3 align="center">🔎 My Interests</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,cs,react,ps,git,github,express,vscode,vercel,cloudflare,discord,discordjs&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,cs,express,git,ps,figma,github,vscode,vercel,cloudflare,discord,discordjs,redis,sentry,grafana&theme=dark&perline=7"/>
 </p>
 
 <h3 align="center">🚀 About Me</h3>
