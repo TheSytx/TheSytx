@@ -25,4 +25,4 @@
 
 <h3 align="center">💎 My Projects</h3>
 
-[![voicestats.xyz](https://i.imgur.com/ZEQr9PZ.png)](https://voicestats.xyz)
+[![voicestats.xyz](voicestats-website.png)](https://voicestats.xyz)
